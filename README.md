@@ -34,3 +34,5 @@ The password is read from the `DB_PASSWORD` environment variable and is never st
 
 ## How I built this
 I used Claude as a mentor for explanations and code review, and I wrote, ran, tested, and debugged the project myself.
+
+Interactive API docs (Swagger UI): http://localhost:8080/swagger-ui.html
